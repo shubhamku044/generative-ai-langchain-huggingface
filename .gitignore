@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environments
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & model artifacts (never commit big downloads like GoogleNews vectors)
+data/
+*.bin
+*.model
+*.vec
+
+# OS / editor
+.DS_Store
+.vscode/
